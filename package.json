@@ -5,7 +5,7 @@
   "main": "build/src/app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jiri-vetyska/jiri-vetyska-sdk.git"
+    "url": "https://github.com/jvetyska/jiri-vetyska-sdk.git"
   },
   "engines": {
     "node": ">= 18.12 < 19"
@@ -41,9 +41,9 @@
     "tslib": "~2.4"
   },
   "bugs": {
-    "url": "https://github.com/jiri-vetyska/jiri-vetyska-SDK/issues"
+    "url": "https://github.com/jvetyska/jiri-vetyska-SDK/issues"
   },
-  "homepage": "https://github.com/jiri-vetyska/jiri-vetyska-SDK#readme",
+  "homepage": "https://github.com/jvetyska/jiri-vetyska-SDK#readme",
   "directories": {
     "test": "tests"
   },
